@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-05T16:19:08 IST" name="Surefire suite" finished-at="2022-12-05T16:19:17 IST" duration-ms="8353">
+    <groups>
+    </groups>
+    <test started-at="2022-12-05T16:19:08 IST" name="Surefire test" finished-at="2022-12-05T16:19:17 IST" duration-ms="8353">
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
